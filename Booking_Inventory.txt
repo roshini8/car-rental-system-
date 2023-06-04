@@ -1,0 +1,9 @@
+P003 VWX2937 IsuzuMU-X Xiao Jun 4 80
+E003 GHI9101 PeroduaAxia Xiao Jun 4 40
+P003 VWX2937 IsuzuMU-X Xiao Jun 7 140
+L005 SUE5583 BentleyMulsanne Xiao Jun 6 180
+E003 GHI9101 PeroduaAxia Xiao Jun 4 40
+P002 STU1826 ToyotaInnova Xiao Jun 5 100
+E002 DEF5678 PeroduaBezza roshini08 2 20
+L001 JAS4095 BMW7Series herish23 10 300
+E001 ABC1234 PeroduaMyvi herish23 -2 -20
